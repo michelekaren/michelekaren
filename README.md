@@ -1,6 +1,6 @@
 Sejam bem-vindos ao meu perfil 💙💙
 
-Me chamo Michele Karen
+Me chamo **Michele Karen**
 
 Sou estudante do Alura
 
