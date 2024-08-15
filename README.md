@@ -1,16 +1,13 @@
-## Hi there 👋
+Sejam bem-vindos ao meu perfil 💙💙
 
-<!--
-**michelekaren/michelekaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Michele Karen
 
-Here are some ideas to get you started:
+Sou estudante do Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para meu desenvolvimento como aluna da rede estadual que utiliza o Alura para novos conehcimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para poder entrar em contato comigo: 📫
+karenmichele88@gmail.com
+@michelekaren
+
+![](https://images.app.goo.gl/sEVFQrBB3M6MQFmi7)
